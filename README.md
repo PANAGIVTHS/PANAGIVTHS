@@ -1,4 +1,4 @@
-<p><img src="assets/header.gif" alt="Panagiotis Tsogkas, @PANAGIVTHS. Electrical and Computer Engineering, University of Thessaly. GPU and processor architecture." width="100%"></p>
+<p><img src="assets/header.svg" alt="Panagiotis Tsogkas, @PANAGIVTHS. Electrical and Computer Engineering, University of Thessaly. GPU and processor architecture." width="100%"></p>
 
 <p><img src="assets/stats.svg" alt="GitHub stats and languages" width="100%"></p>
 
